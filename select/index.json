@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Heal Me",
+  "base_artist": "*Luna",
+  "createdAt": "2026-03-19T07:25:06.076315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Billy Currington",
+      "has_synced": false,
+      "path": "select/01_Heal_Me_Billy_Currington.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Lior",
+      "has_synced": false,
+      "path": "select/02_Heal_Me_Lior.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/03_Heal_Me_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/04_Heal_Me_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/05_Heal_Me_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Fates Warning",
+      "has_synced": true,
+      "path": "select/06_Heal_Me_Fates_Warning.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/07_Heal_Me_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heal Me (Alternate Version)",
+      "artist": "Snow Patrol",
+      "has_synced": false,
+      "path": "select/08_Heal_Me_(Alternate_Version)_Snow_Patrol.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heal Me Kill Me",
+      "artist": "Shaka Ponk",
+      "has_synced": true,
+      "path": "select/09_Heal_Me_Kill_Me_Shaka_Ponk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kill Me, Heal Me",
+      "artist": "Skillet",
+      "has_synced": true,
+      "path": "select/10_Kill_Me,_Heal_Me_Skillet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Heal_Me_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heal Me (Reworked)",
+      "artist": "Snow Patrol",
+      "has_synced": true,
+      "path": "select/12_Heal_Me_(Reworked)_Snow_Patrol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Heal Me",
+      "artist": "Don Felder",
+      "has_synced": false,
+      "path": "select/13_Heal_Me_Don_Felder.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heal Me I'm Heartsick",
+      "artist": "No Vacancy",
+      "has_synced": false,
+      "path": "select/14_Heal_Me_I'm_Heartsick_No_Vacancy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heal Me, I'm Heartsick",
+      "artist": "No Vacancy",
+      "has_synced": false,
+      "path": "select/15_Heal_Me,_I'm_Heartsick_No_Vacancy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heal Me Now",
+      "artist": "William Fitzsimmons",
+      "has_synced": false,
+      "path": "select/16_Heal_Me_Now_William_Fitzsimmons.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heal Me (picco Remix)",
+      "artist": "*Luna feat. しほ",
+      "has_synced": false,
+      "path": "select/pl_01_Heal_Me_(picco_Remix)_Luna_feat._しほ.txt"
+    }
+  ]
+}
